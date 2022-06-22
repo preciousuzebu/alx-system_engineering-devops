@@ -1,5 +1,2 @@
 #!/bin/bash
-ls -l
-ls -la
-ls -l
 ls -la
